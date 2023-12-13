@@ -1,1 +1,2 @@
 # Currency_Converter
+The creation of this currency conversion app began during week 11 of my School of Code journey when my team and I began exploring Next.js. Designed to seamlessly convert currencies, the app is a work in progress, with ongoing efforts focused on refining both its styling and functionality. I'm looking forward to delving deeper into Next.js to continue the development of this app!
